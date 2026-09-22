@@ -84,7 +84,7 @@ fun MyGridScreen(modifier: Modifier = Modifier) {
             contentAlignment = Alignment.BottomCenter
         ) {
             Text(
-                text = "Họ và tên - MSSV",
+                text = "Bùi Trần Minh Anh - BIT240013",
                 fontSize = 20.sp,
                 fontWeight = FontWeight.Bold,
                 color = Color.Black,
